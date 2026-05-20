@@ -203,6 +203,11 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Local dataset and PyKEEN/PyStow caches
+data/
+.pystow/
+.pykeen/
+
 # Ruff stuff:
 .ruff_cache/
 
